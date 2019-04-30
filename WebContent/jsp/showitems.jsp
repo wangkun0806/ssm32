@@ -20,7 +20,7 @@
 				</td>
 			</tr>
 		</table>
-		商品列表：
+		商品列表：   爱的房间里的积分
 		<table width="100%" border="1">
 			<tr>
 				<td>商品名称</td>
